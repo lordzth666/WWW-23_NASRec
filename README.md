@@ -1,7 +1,7 @@
 # [WWW'23] NASRec: Weight Sharing Neural Architecture Search for Recommender Systems
 
 This is an official Implementation of our work: "NASRec: Weight Sharing Neural Architecture Search for Recommender Systems"
-This work will be open source under https://github.com/facebookresearch/nasrec. Stay tuned!]
+This work is open source under https://github.com/facebookresearch/nasrec. Stay tuned!]
 
 If you would like to use this repository to develop your research work, feel free to use the citation below:
 
